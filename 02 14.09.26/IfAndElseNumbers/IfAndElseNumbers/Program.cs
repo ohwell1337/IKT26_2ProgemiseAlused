@@ -46,8 +46,8 @@ namespace IfAndElseNumbers
                 ConsoleColor.Magenta
             };
 
-            // Rainbow animatsioon
-            for (int i = 0; i < 3342342340; i++)
+            // vikerkaar
+            for (int i = 0; i < 9999999; i++)
             {
                 Console.Clear();
 
